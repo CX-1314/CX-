@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 local WhiteList = {
-    5293021594,11680821988,8459507720,11603608769,12019453087
+    5293021594,11680821988,8459507720,11603608769,12019453087,11662108374
 }
 
 local isAllowed = false
