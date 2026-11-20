@@ -3,7 +3,7 @@ local __ok, __err = pcall(function()
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local WhiteList = {
-5293021594,11680821988,8459507720,11603608769,12019453087
+5293021594,11680821988,8459507720,11603608769,12019453087,7802932950
 }
 local isAllowed = false
 for _, id in ipairs(WhiteList) do
